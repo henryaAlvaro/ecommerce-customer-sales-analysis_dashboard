@@ -5,6 +5,8 @@ End-to-end data analytics project untuk menganalisis **penjualan, perilaku pelan
 Project ini dibangun menggunakan **Python, Pandas, Plotly, dan Streamlit**, mulai dari proses data understanding, data cleaning, feature engineering, Exploratory Data Analysis (EDA), business analysis, hingga interactive dashboard.
 
 ---
+## Live Dashboard
+https://ecommerce-customer-sales-analysisdashboard-mbr3ft2bo2jshq3akt2.streamlit.app
 
 ## Project Overview
 
