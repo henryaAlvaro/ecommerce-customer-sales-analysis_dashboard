@@ -1,0 +1,112 @@
+# ==============================
+# Python
+# ==============================
+
+**pycache**/
+*.py[cod]
+*$py.class
+*.so
+
+
+# Virtual Environment
+
+venv/
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+.env.*
+!.env.example
+
+
+# IDE / Editor
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+
+
+# Python Packaging
+
+build/
+dist/
+*.egg-info/
+.eggs/
+
+
+# Logs
+
+
+*.log
+logs/
+
+
+
+# Temporary Files
+
+*.tmp
+*.temp
+temp/
+tmp/
+
+
+# Cache
+
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+
+
+# Data Files
+
+# Raw/private datasets
+
+data/raw/
+
+# Generated datasets
+
+data/processed/
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+
+# Model Files
+
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.pt
+*.pth
+
+# Generated Reports
+reports/generated/
+*.html
+
+# Local Database
+
+*.db
+*.sqlite
+*.sqlite3
